@@ -5,6 +5,10 @@ import FeedbackCard from "../components/FeedbackCard";
 import Fade from "react-reveal/Fade";
 
 const Feedbacks = () => {
+  if(feedbacks.length == 0)
+  {
+    return <></>
+  }
   return (
     feedbacks && (
       <Fade bottom duration={2000}>

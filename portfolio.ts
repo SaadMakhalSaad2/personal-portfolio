@@ -162,11 +162,16 @@ export const experience: ExperienceType[] = [
 ];
 
 export const projects: ProjectType[] = [
-  // {
-  //   name: "Giebo",
-  //   desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
-  //   link: "https://gibeo.io/",
-  // },
+  {
+    name: "IIHG Library Managmeent System",
+    desc: "A Library Management System for Iowa Institute of Human Genetics. Recieves and manages DNA sequencing applications throughout multiple workflows. Developed using Drupa PhP and MySql database.",
+    link: "https://medicine.uiowa.edu/humangenetics/genomics-division/genome-sequencing/library-prep-workflows#RNA-Seq%20Workflow",
+  },
+  {
+    name: "WordFlight",
+    desc: "Large-scale, gamified reading assessment platform facilitating automatic word recognition to assess and boost students' reading fluency. Developed using SpringBoot and MySql on the backend with Angular and Javascript on the frontend.",
+    link: "https://www.wordflight.com",
+  },
   // {
   //   name: "O Mejor Oferta",
   //   desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
