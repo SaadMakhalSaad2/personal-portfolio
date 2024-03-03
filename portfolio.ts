@@ -161,32 +161,32 @@ export const experience: ExperienceType[] = [
 
 ];
 
-// export const projects: ProjectType[] = [
-//   {
-//     name: "Giebo",
-//     desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
-//     link: "https://gibeo.io/",
-//   },
-//   {
-//     name: "O Mejor Oferta",
-//     desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
-//     link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
-//   },
-//   {
-//     name: "Hooligan Culture",
-//     desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
-//     link: "https://hooliganculture.com/",
-//   },
-// ];
+export const projects: ProjectType[] = [
+  // {
+  //   name: "Giebo",
+  //   desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
+  //   link: "https://gibeo.io/",
+  // },
+  // {
+  //   name: "O Mejor Oferta",
+  //   desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
+  //   link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
+  // },
+  // {
+  //   name: "Hooligan Culture",
+  //   desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
+  //   link: "https://hooliganculture.com/",
+  // },
+];
 
-// export const feedbacks: FeedbackType[] = [
-//   {
-//     name: "Syed Jamal",
-//     role: "Frontend Developer at Meganos Software",
-//     feedback:
-//       "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
-//   },
-// ];
+export const feedbacks: FeedbackType[] = [
+  // {
+  //   name: "Syed Jamal",
+  //   role: "Frontend Developer at Meganos Software",
+  //   feedback:
+  //     "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
+  // },
+];
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
